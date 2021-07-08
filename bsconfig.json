@@ -3,7 +3,6 @@
   "sources": [
     "src"
   ],
-  "refmt": 3,
   "bsc-flags": ["-open Belt"],
   "package-specs": {
     "module": "commonjs",
